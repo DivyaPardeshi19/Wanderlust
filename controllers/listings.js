@@ -1,4 +1,5 @@
 const Listing = require("../models/listing");
+const { data } = require("../init/data"); 
 
 module.exports.index = async (req, res) => {
   const { category, search } = req.query; // use 'search' from input name
