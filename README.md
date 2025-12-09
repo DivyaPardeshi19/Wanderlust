@@ -59,9 +59,8 @@ npm install
 npm start
 
 
-App will run on http://localhost:3000/
-
 📁 Folder Structure
+
 Wanderlust/
 │── public/        # Static files
 │── routes/        # Express routes
